@@ -74,7 +74,7 @@
 [![](https://main.qcloudimg.com/raw/67f5a389f1ac6f3b4d04c7256438e44f.svg)](https://console.cloud.tencent.com/tcb/env/index?action=CreateAndDeployCloudBaseProject&appUrl=https%3A%2F%2Fgithub.com%2FHandsomedoggy%2Flsky-pro&branch=master)
 
 ### 📧 联系我
-- Email: i@wispx.cn
+- Email: 
 
 ### 💰 捐赠
 Lsky Pro 的开发和更新等，都是作者在空余时间独立开发，并免费开源使用，如果您认可我的作品，并且觉得对你有所帮助我愿意接受来自各方面的捐赠😃。    
