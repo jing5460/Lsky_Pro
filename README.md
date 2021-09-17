@@ -84,8 +84,8 @@ Lsky Pro 的开发和更新等，都是作者在空余时间独立开发，并�
         <th>微信</th>
     </tr>
     <tr>
-        <td><img src="./public/static/app/images/demo/alipay.png?t=201911251121"></td>
-        <td><img src="./public/static/app/images/demo/wechat.jpeg?t=201911251121"></td>
+        <td><img src="./public/static/app/images/demo/xxx.png?t=201911251121"></td>
+        <td><img src="./public/static/app/images/demo/xxx.jpeg?t=201911251121"></td>
     </tr>
 </table>
 
